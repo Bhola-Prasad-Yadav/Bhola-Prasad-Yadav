@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Bhola Prasad Yadav <br><br>- 🔭 Persuing B.Tech <br>- 📚 Currently in Forth Year CSE(AIML)<br>- ⚡ In my free time I explore Internet</p>
+<p align="left">I'm Bhola Prasad Yadav <br><br>- 🔭 Persuing B.Tech <br>- 📚 Currently in Final Year CSE(AIML)<br>- ⚡ In my free time I explore Internet</p>
 
 ###
 
